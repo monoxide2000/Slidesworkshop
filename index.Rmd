@@ -55,7 +55,7 @@ body {background:grey transparent;
 - Flujo de trabajo:
 
 ```{r  echo=FALSE, out.width = "100%"}
-include_graphics("./assets/img/flujo.png") 
+include_graphics("./assets/img/flujo.jpg") 
 ```
 
 - `RStudio` contiene un sólo botón que realiza todas estas tareas y produce un documento como resultado.

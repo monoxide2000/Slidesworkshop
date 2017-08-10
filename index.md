@@ -54,7 +54,7 @@ body {background:grey transparent;
 ## R Markdown (mecánica de generación)
 - Flujo de trabajo:
 
-<img src="./assets/img/flujo.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="100%" />
+<img src="./assets/img/flujo.jpg" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="100%" />
 
 - `RStudio` contiene un sólo botón que realiza todas estas tareas y produce un documento como resultado.
 
