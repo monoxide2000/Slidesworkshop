@@ -23,7 +23,7 @@ body {background:grey transparent;
 
 
 ## Breve historia de R
-> - ¿Qué es R?.
+> - ¿Qué es `R`?.
 > - R es un dialecto de S. S fué implementado por John Chambers y Rick Becker en los laboratorios Bell en 1976.
 > - En 1988, la versión 3 de S fue reescrita en C.
 > - En 1998, la versión 4 de S fué anunciada y es la versión que más o menos se lleva hoy.
@@ -664,16 +664,16 @@ df
 
 ```
 ##    let num      vars
-## 1    a   1 0.3941639
-## 2    b   2 0.2579478
-## 3    c   3 0.2818972
-## 4    d   4 0.9315304
-## 5    e   5 0.1415171
-## 6    f   6 0.8713989
-## 7    g   7 0.4392847
-## 8    h   8 0.9409481
-## 9    i   9 0.6205005
-## 10   j  10 0.6394636
+## 1    a   1 0.3231418
+## 2    b   2 0.3287401
+## 3    c   3 0.1714723
+## 4    d   4 0.4635636
+## 5    e   5 0.6059104
+## 6    f   6 0.5506551
+## 7    g   7 0.2189962
+## 8    h   8 0.6391178
+## 9    i   9 0.6056785
+## 10   j  10 0.1479026
 ```
 
 --- .class #id
