@@ -90,7 +90,7 @@ include_graphics("./assets/img/markdown2.png")
 ## R Markdown (definición del encabezado YAML)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("./assets/img/yaml.PNG") 
+include_graphics("./assets/img/yaml.jpg") 
 ```
 
 --- .class #id 
@@ -99,7 +99,7 @@ include_graphics("./assets/img/yaml.PNG")
 ## R Markdown (inserción de código)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("./assets/img/chunk.PNG") 
+include_graphics("./assets/img/chunk.png") 
 ```
 
 --- .class #id 
@@ -108,7 +108,7 @@ include_graphics("./assets/img/chunk.PNG")
 ## R Markdown (opciones de código)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("./assets/img/options.PNG") 
+include_graphics("./assets/img/options.png") 
 ```
 
 --- .class #id 
@@ -117,7 +117,7 @@ include_graphics("./assets/img/options.PNG")
 ## R Markdown (finalmente genera el documento)
 
 ```{r  echo=FALSE, out.width = "90%", fig.align='center'}
-include_graphics("./assets/img/generate.PNG") 
+include_graphics("./assets/img/generate.png") 
 ```
 
 --- .segue bg:grey
