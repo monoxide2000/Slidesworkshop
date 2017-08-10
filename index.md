@@ -54,7 +54,7 @@ body {background:grey transparent;
 ## R Markdown (mecánica de generación)
 - Flujo de trabajo:
 
-<img src="assets/img/flujo.PNG" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="100%" />
+<img src="./assets/img/flujo.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="100%" />
 
 - `RStudio` contiene un sólo botón que realiza todas estas tareas y produce un documento como resultado.
 
@@ -63,46 +63,46 @@ body {background:grey transparent;
 ## R Markdown (Empezando con `RStudio`)
 - Flujo de trabajo:
 
-<img src="assets/img/rstudioOpen.PNG" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="80%" style="display: block; margin: auto;" />
+<img src="./assets/img/rstudioOpen.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="80%" style="display: block; margin: auto;" />
 
 --- .class #id 
 
 ## R Markdown (sintaxis)
 
-<img src="assets/img/markdown1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="80%" style="display: block; margin: auto;" />
+<img src="./assets/img/markdown1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="80%" style="display: block; margin: auto;" />
 
 --- .class #id
 
 ## R Markdown (sintaxis), cont.
 
-<img src="assets/img/markdown2.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="90%" style="display: block; margin: auto;" />
+<img src="./assets/img/markdown2.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="90%" style="display: block; margin: auto;" />
 
 --- .class #id 
 
 ## R Markdown (definición del encabezado YAML)
 
-<img src="assets/img/yaml.PNG" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="75%" style="display: block; margin: auto;" />
+<img src="./assets/img/yaml.PNG" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="75%" style="display: block; margin: auto;" />
 
 --- .class #id 
 
 
 ## R Markdown (inserción de código)
 
-<img src="assets/img/chunk.PNG" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" width="75%" style="display: block; margin: auto;" />
+<img src="./assets/img/chunk.PNG" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" width="75%" style="display: block; margin: auto;" />
 
 --- .class #id 
 
 
 ## R Markdown (opciones de código)
 
-<img src="assets/img/options.PNG" title="plot of chunk unnamed-chunk-7" alt="plot of chunk unnamed-chunk-7" width="75%" style="display: block; margin: auto;" />
+<img src="./assets/img/options.PNG" title="plot of chunk unnamed-chunk-7" alt="plot of chunk unnamed-chunk-7" width="75%" style="display: block; margin: auto;" />
 
 --- .class #id 
 
 
 ## R Markdown (finalmente genera el documento)
 
-<img src="assets/img/generate.PNG" title="plot of chunk unnamed-chunk-8" alt="plot of chunk unnamed-chunk-8" width="90%" style="display: block; margin: auto;" />
+<img src="./assets/img/generate.PNG" title="plot of chunk unnamed-chunk-8" alt="plot of chunk unnamed-chunk-8" width="90%" style="display: block; margin: auto;" />
 
 --- .segue bg:grey
 

@@ -55,7 +55,7 @@ body {background:grey transparent;
 - Flujo de trabajo:
 
 ```{r  echo=FALSE, out.width = "100%"}
-include_graphics("assets/img/flujo.PNG") 
+include_graphics("./assets/img/flujo.png") 
 ```
 
 - `RStudio` contiene un sólo botón que realiza todas estas tareas y produce un documento como resultado.
@@ -66,7 +66,7 @@ include_graphics("assets/img/flujo.PNG")
 - Flujo de trabajo:
 
 ```{r  echo=FALSE, out.width = "80%", fig.align='center'}
-include_graphics("assets/img/rstudioOpen.PNG") 
+include_graphics("./assets/img/rstudioOpen.png") 
 ```
 
 --- .class #id 
@@ -74,7 +74,7 @@ include_graphics("assets/img/rstudioOpen.PNG")
 ## R Markdown (sintaxis)
 
 ```{r  echo=FALSE, out.width = "80%", fig.align='center'}
-include_graphics("assets/img/markdown1.png") 
+include_graphics("./assets/img/markdown1.png") 
 ```
 
 --- .class #id
@@ -82,7 +82,7 @@ include_graphics("assets/img/markdown1.png")
 ## R Markdown (sintaxis), cont.
 
 ```{r  echo=FALSE, out.width = "90%", fig.align = 'center'}
-include_graphics("assets/img/markdown2.png") 
+include_graphics("./assets/img/markdown2.png") 
 ```
 
 --- .class #id 
@@ -90,7 +90,7 @@ include_graphics("assets/img/markdown2.png")
 ## R Markdown (definición del encabezado YAML)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("assets/img/yaml.PNG") 
+include_graphics("./assets/img/yaml.PNG") 
 ```
 
 --- .class #id 
@@ -99,7 +99,7 @@ include_graphics("assets/img/yaml.PNG")
 ## R Markdown (inserción de código)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("assets/img/chunk.PNG") 
+include_graphics("./assets/img/chunk.PNG") 
 ```
 
 --- .class #id 
@@ -108,7 +108,7 @@ include_graphics("assets/img/chunk.PNG")
 ## R Markdown (opciones de código)
 
 ```{r  echo=FALSE, out.width = "75%", fig.align='center'}
-include_graphics("assets/img/options.PNG") 
+include_graphics("./assets/img/options.PNG") 
 ```
 
 --- .class #id 
@@ -117,7 +117,7 @@ include_graphics("assets/img/options.PNG")
 ## R Markdown (finalmente genera el documento)
 
 ```{r  echo=FALSE, out.width = "90%", fig.align='center'}
-include_graphics("assets/img/generate.PNG") 
+include_graphics("./assets/img/generate.PNG") 
 ```
 
 --- .segue bg:grey
